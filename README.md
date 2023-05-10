@@ -2,6 +2,7 @@
 
 The structure of the repository is the folloing: 
 
+```bash
 .
 ├── EDA
 │   ├── Final_EDA.html
@@ -36,5 +37,6 @@ The structure of the repository is the folloing:
     │   └── shop_2_transactions.csv
     ├── transactions_ds.csv
     └── weather_data.csv
+```
 
 Main notebooks with predictions are located in `analysis` folder. In `data` forder you can find information about sales and some additional covariates for the models. Folder `EDA` devoted to prelimitary analysis of the data. 
